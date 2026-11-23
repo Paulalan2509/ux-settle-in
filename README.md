@@ -1,6 +1,7 @@
 # Settle In — UI/UX case study + clickable prototype
 
 A concept app that helps international students in India get through their first month: one checklist, one clear next step.
+
 **Live demo:** [paulalan2509.github.io/ux-settle-in/](https://paulalan2509.github.io/ux-settle-in/)
 
 ![Settle In case study](docs/case-study-top.jpg)
